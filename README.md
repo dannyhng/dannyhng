@@ -2,7 +2,7 @@
 
 I'm a motivated and detail-oriented professional with a passion for network engineering and cybersecurity. I enjoy tackling complex problems, optimizing infrastructure, and enhancing digital security to ensure seamless and protected connectivity.
 
-With a strong foundation in networking principles and security best practices, I'm focused on building, monitoring, and securing modern network systems. My work ethic, adaptability, and communication skills make me a valuable team player — and someone who's always ready to learn and grow.
+With a strong foundation in networking principles and security best practices, I'm focused on building, monitoring, and securing modern network systems. My work ethic, adaptability, and communication skills make me a valuable team player and someone who's always ready to learn and grow.
 
 ---
 

@@ -1,37 +1,57 @@
-# Hi, I'm Danny (@dannyhng)
+# Danny (Thu) Hoang
 
-I'm a motivated and detail-oriented professional with a passion for network engineering and cybersecurity. I enjoy tackling complex problems, optimizing infrastructure, and enhancing digital security to ensure seamless and protected connectivity.
+### Network & IT Support Technician | CCNA & Security+ Certified
 
-With a strong foundation in networking principles and security best practices, I'm focused on building, monitoring, and securing modern network systems. My work ethic, adaptability, and communication skills make me a valuable team player and someone who's always ready to learn and grow.
+<p align="left">
+  <a href="mailto:t.hoang19@saints.mhcc.edu" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/vietthuhoang" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+---
+
+A results-oriented IT professional with **2+ years of hands-on experience** managing and securing network infrastructure. In my recent role, I configured routers, switches, and firewalls to support a 20-user office, **reducing network downtime by 30%** and **improving ticket resolution times by 25%**.
+
+Now, with CCNA and Security+ certifications, I am deepening my expertise in enterprise networking and security, with the goal of moving into a dedicated Network Engineer or Security Analyst role.
+
+### Certifications
+
+| Certification | Issued |
+| :--- | :--- |
+| **Cisco Certified Network Associate (CCNA)** | June 2025 |
+| **CompTIA Security+ (SY0-701)** | December 2024 |
+| **CompTIA A+** | September 2025 |
+| **CCNP Enterprise** | *In Progress (Studying for 350-401 ENCOR)* |
 
 ---
 
-### Interests
-- Network security and infrastructure
-- Threat detection and vulnerability assessment
-- Security automation and scripting
-- Cloud networking (AWS, Azure fundamentals)
+### Featured Projects
 
-### Currently Learning
-- CCNA Certification Path
-- Advanced TCP/IP and routing protocols
-- Network monitoring tools (Nagios, Wireshark)
-- Cybersecurity lab simulations
+*These are hands-on labs where I apply and test enterprise-grade networking and security concepts.*
 
-### Let’s Collaborate On
-- Open-source security projects
-- Simulated firewall rule labs
-- Network automation tools and utilities
-- Capture the Flag (CTF) challenges and training labs
+### 1. Home Lab Enterprise Network Simulation
+* Deployed a **pfSense firewall** to create a multi-layered network with separate VLANs for servers, workstations, and IoT devices.
+* Configured **site-to-site & remote access VPNs** (OpenVPN/WireGuard) to simulate secure corporate connectivity.
+* Integrated **Nagios** for network monitoring and **Wireshark** for deep packet inspection to analyze traffic and troubleshoot issues.
+* Practiced incident response by simulating firewall breaches and testing rule changes to ensure security policies were effective.
 
-### Reach Me
-- Email: `thuvhoang19@gmail.com`
-- LinkedIn: [www.linkedin.com/in/vietthuhoang](www.linkedin.com/in/vietthuhoang)
-
-### Pronouns
-He/Him
-
-### Fun Fact
-I’m naturally curious and once spent hours tracing a packet across a simulated network just to understand what broke, and I loved every second of it.
+### 2. Virtual Network Infrastructure (Cisco Packet Tracer)
+* Designed and built a multi-site LAN/WAN topology using **IPv6, OSPF routing, and VLAN segmentation**.
+* Implemented enterprise security policies using **ACLs, NAT, and router-based VPNs** to secure the network edge.
+* Troubleshot and resolved complex routing and connectivity failures using Cisco debugging tools.
+* Validated network resilience by implementing redundancy protocols and performing failover testing.
+* [➡️ **View Topology & Documentation**](https://github.com/dannyhng/ccna-full-config-lab)
 
 ---
+
+### Technical Skills
+
+| Category | Technologies |
+| :--- | :--- |
+| **Networking & Protocols** | TCP/IP, IPv4/IPv6, DNS, DHCP, NAT, VLANs, STP, Routing (RIP, OSPF), Switching, VPNs |
+| **Security & Administration** | Firewalls (pfSense, SOHO), ACLs, IDS/IPS Concepts, Incident Response, Active Directory, Group Policy |
+| **Systems & Tools** | Windows Server, Linux (CLI), Wireshark, Nagios, PowerShell, Bash, Cisco Packet Tracer |
+| **IT Support** | Workstation Deployment, Imaging, Patching, Remote Troubleshooting, Tier I/II Support |
+
+---
+
+> **Fun Fact:** I’m naturally curious and once spent hours tracing a packet across a simulated network just to understand what broke, and I loved every second of it.

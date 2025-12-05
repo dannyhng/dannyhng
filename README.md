@@ -44,13 +44,11 @@ I don't just study networking concepts; I build, break, and automate them in a p
 * **Automation:** Wrote **Ansible** playbooks to handle system patching and inventory management across heterogeneous OS types.
 * **Observability:** Deployed a full monitoring stack (**Prometheus/Grafana**) via Docker Compose with raw kernel scraping via host networking.
 * **Security:** Implemented **Zero Trust** remote access using Tailscale Subnet Routing to eliminate open WAN ports.
-* [**View Source Code & Diagrams**](https://github.com/dannyhng/hybrid-homelab-infrastructure)
 
-#### 2. Virtual Network Infrastructure (Cisco Packet Tracer)
+#### 2. [Virtual Network Infrastructure (Cisco Packet Tracer)](https://github.com/dannyhng/ccna-full-config-lab)
 * Designed a multi-site LAN/WAN topology using **IPv6, OSPF routing, and VLAN segmentation**.
 * Implemented enterprise security policies using **ACLs, NAT, and router-based VPNs** to secure the network edge.
 * Validated network resilience by implementing redundancy protocols (HSRP/STP) and performing failover testing.
-* [**View Topology & Documentation**](https://github.com/dannyhng/ccna-full-config-lab)
 
 ---
 

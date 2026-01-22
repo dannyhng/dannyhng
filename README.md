@@ -1,7 +1,7 @@
 <div align="center">
   
 # Danny (Thu) Hoang
-### Infrastructure Engineer | CCNA & Security+ | Hybrid Cloud Specialist
+### Network Engineer & Infrastructure Enthusiast | CCNA, Security+
 
 <a href="mailto:thuvhoang19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/vietthuhoang"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -9,21 +9,19 @@
 
 <br/>
 
-**Infrastructure Engineer bridging packets and pipelines.** <br/>
-*Building, breaking, and automating infrastructure in a production-grade hybrid environment.*
+**Network Engineer experimenting with automation, segmented Layer 2/3 networks, and lab infrastructure.** <br/>
 
 </div>
 
 ---
 
 ### About Me
-I am an Infrastructure Engineer transitioning from traditional networking to **NetDevOps**. While I have a strong foundation in routing and switching (Cisco CLI), my focus is on **Infrastructure as Code (IaC)**.  
-I don't just study networking concepts; I build, break, and automate them in a production-grade hybrid environment. My goal is to bridge the gap between on-premise hardware and modern cloud automation.
+I am a Network Engineer with hands-on experience in **routing, switching, segmentation, and secure connectivity**. I focus on **automating network operations** using Python (Netmiko) and Ansible, and maintaining lab environments to safely test network designs and firewall policies. I build, break, and document **layered network environments** in home labs using **Proxmox VE**, **EVE-NG**, pfSense, and Cisco IOS. This allows me to learn and practice network reliability, troubleshooting, and automation without impacting production systems.
 
 ### Current Focus
-* **Infrastructure:** Architecting Hybrid Cloud environments using **Proxmox VE**, **Terraform**, and **Windows Server**.
-* **Identity:** Unifying authentication across boundaries using **Microsoft Entra ID** and **Active Directory**.
-* **Automation:** Replacing manual "ClickOps" with **Ansible** playbooks and **PowerShell** pipelines.
+* **Networking:** VLAN segmentation, inter-VLAN routing, OSPF, BGP, and site-to-site IPsec VPNs.
+* **Automation:** Python (Netmiko), Ansible, and PowerShell for network configuration and backups.
+* **Lab Infrastructure:** Proxmox VE, EVE-NG, pfSense, and Windows Server (AD/DNS/DHCP).
 
 ### Certifications
 

@@ -16,7 +16,7 @@
 ---
 
 ### About Me
-I am a CCNA-certified network technician with hands-on experience in **routing, switching, segmentation, and secure connectivity**. I focus on **automating network operations** using Python (Netmiko) and Ansible, and maintaining lab environments to safely test network designs and firewall policies. I build, break, and document **layered network environments** in home labs using **Proxmox VE**, **EVE-NG**, pfSense, and Cisco IOS. This allows me to learn and practice network reliability, troubleshooting, and automation without impacting production systems.
+I am a CCNA-certified network professional with hands-on experience in **routing, switching, segmentation, and secure connectivity**. I focus on **automating network operations** using Python (Netmiko) and Ansible, and maintaining lab environments to safely test network designs and firewall policies. I build, break, and document **layered network environments** in home labs using **Proxmox VE**, **EVE-NG**, pfSense, and Cisco IOS. This allows me to learn and practice network reliability, troubleshooting, and automation without impacting production systems.
 
 ### Current Focus
 * **Networking:** VLAN segmentation, inter-VLAN routing, OSPF, BGP, and site-to-site IPsec VPNs.

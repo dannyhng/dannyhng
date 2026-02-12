@@ -1,7 +1,7 @@
 <div align="center">
   
 # Danny (Thu) Hoang
-### Network Engineer & Infrastructure Enthusiast | CCNA, Security+
+### Network Professional & Infrastructure Enthusiast | CCNA, Security+
 
 <a href="mailto:thuvhoang19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/vietthuhoang"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -9,7 +9,7 @@
 
 <br/>
 
-**Network Engineer experimenting with automation, segmented Layer 2/3 networks, and lab infrastructure.** <br/>
+**Network Professional experimenting with automation, segmented Layer 2/3 networks, and lab infrastructure.** <br/>
 
 </div>
 
